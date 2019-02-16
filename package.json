@@ -1,0 +1,30 @@
+{
+  "name": "babacademy",
+  "version": "1.0.0",
+  "description": "this is an educational blog",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kb2232/BabAcademy.git"
+  },
+  "keywords": [
+    "blog",
+    "eductional",
+    "babacademy"
+  ],
+  "author": "Kunle Babatunde",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kb2232/BabAcademy/issues"
+  },
+  "homepage": "https://github.com/kb2232/BabAcademy#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "dotenv": "^6.2.0",
+    "express": "^4.16.4"
+  }
+}
